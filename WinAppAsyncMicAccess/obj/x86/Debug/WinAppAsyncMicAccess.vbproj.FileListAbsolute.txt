@@ -1,0 +1,145 @@
+D:\hendro\Pempro2\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\WinAppAsyncMicAccess.exe.config
+D:\hendro\Pempro2\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\WinAppAsyncMicAccess.exe
+D:\hendro\Pempro2\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\WinAppAsyncMicAccess.pdb
+D:\hendro\Pempro2\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\WinAppAsyncMicAccess.xml
+D:\hendro\Pempro2\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\hendro\Pempro2\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\hendro\Pempro2\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\hendro\Pempro2\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\System.IO.dll
+D:\hendro\Pempro2\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\System.Runtime.dll
+D:\hendro\Pempro2\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\System.Threading.Tasks.dll
+D:\hendro\Pempro2\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\hendro\Pempro2\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\hendro\Pempro2\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\hendro\Pempro2\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\System.IO.xml
+D:\hendro\Pempro2\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\System.Runtime.xml
+D:\hendro\Pempro2\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\System.Threading.Tasks.xml
+D:\hendro\Pempro2\WinAppAsyncMicAccess\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.vbproj.App.config
+D:\hendro\Pempro2\WinAppAsyncMicAccess\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.FPengguna.resources
+D:\hendro\Pempro2\WinAppAsyncMicAccess\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.Resources.resources
+D:\hendro\Pempro2\WinAppAsyncMicAccess\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.vbproj.GenerateResource.Cache
+D:\hendro\Pempro2\WinAppAsyncMicAccess\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.exe
+D:\hendro\Pempro2\WinAppAsyncMicAccess\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.xml
+D:\hendro\Pempro2\WinAppAsyncMicAccess\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.pdb
+D:\hendro\Pempro2\WinAppAsyncMicAccess\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.FSupplier.resources
+D:\hendro\Pempro2\WinAppAsyncMicAccess\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.FMenu.resources
+D:\Google Drive\aplikasibuatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\WinAppAsyncMicAccess.exe.config
+D:\Google Drive\aplikasibuatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\WinAppAsyncMicAccess.exe
+D:\Google Drive\aplikasibuatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\WinAppAsyncMicAccess.pdb
+D:\Google Drive\aplikasibuatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\WinAppAsyncMicAccess.xml
+D:\Google Drive\aplikasibuatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Google Drive\aplikasibuatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Google Drive\aplikasibuatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Google Drive\aplikasibuatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\System.IO.dll
+D:\Google Drive\aplikasibuatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\System.Runtime.dll
+D:\Google Drive\aplikasibuatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\System.Threading.Tasks.dll
+D:\Google Drive\aplikasibuatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Google Drive\aplikasibuatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Google Drive\aplikasibuatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Google Drive\aplikasibuatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\System.IO.xml
+D:\Google Drive\aplikasibuatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\System.Runtime.xml
+D:\Google Drive\aplikasibuatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\System.Threading.Tasks.xml
+D:\Google Drive\aplikasibuatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.vbproj.App.config
+D:\Google Drive\aplikasibuatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.vbprojResolveAssemblyReference.cache
+D:\Google Drive\aplikasibuatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.FMenu.resources
+D:\Google Drive\aplikasibuatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.FSupplier.resources
+D:\Google Drive\aplikasibuatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.FPengguna.resources
+D:\Google Drive\aplikasibuatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.Resources.resources
+D:\Google Drive\aplikasibuatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.vbproj.GenerateResource.Cache
+D:\Google Drive\aplikasibuatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.exe
+D:\Google Drive\aplikasibuatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.xml
+D:\Google Drive\aplikasibuatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.pdb
+D:\OneDrive - Lo\Buatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\WinAppAsyncMicAccess.exe.config
+D:\OneDrive - Lo\Buatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.exe
+D:\OneDrive - Lo\Buatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.xml
+D:\OneDrive - Lo\Buatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.pdb
+D:\OneDrive - Lo\Buatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\WinAppAsyncMicAccess.exe
+D:\OneDrive - Lo\Buatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\WinAppAsyncMicAccess.pdb
+D:\OneDrive - Lo\Buatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\WinAppAsyncMicAccess.xml
+D:\OneDrive - Lo\Buatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\OneDrive - Lo\Buatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\OneDrive - Lo\Buatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\OneDrive - Lo\Buatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\System.IO.dll
+D:\OneDrive - Lo\Buatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\System.Runtime.dll
+D:\OneDrive - Lo\Buatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\System.Threading.Tasks.dll
+D:\OneDrive - Lo\Buatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\OneDrive - Lo\Buatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\OneDrive - Lo\Buatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\OneDrive - Lo\Buatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\System.IO.xml
+D:\OneDrive - Lo\Buatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\System.Runtime.xml
+D:\OneDrive - Lo\Buatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\bin\Debug\System.Threading.Tasks.xml
+D:\OneDrive - Lo\Buatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.vbproj.App.config
+D:\OneDrive - Lo\Buatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.vbprojResolveAssemblyReference.cache
+D:\OneDrive - Lo\Buatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.FMenu.resources
+D:\OneDrive - Lo\Buatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.FSupplier.resources
+D:\OneDrive - Lo\Buatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.FPengguna.resources
+D:\OneDrive - Lo\Buatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.Resources.resources
+D:\OneDrive - Lo\Buatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.vbproj.GenerateResource.Cache
+D:\OneDrive - Lo\Buatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.FPembelian.resources
+D:\OneDrive - Lo\Buatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.FBarangPembelian.resources
+D:\OneDrive - Lo\Buatanku\WinAppAsyncMicAccess\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.FLogin.resources
+D:\Jidan ik1\semester 3\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\bin\Debug\WinAppAsyncMicAccess.exe.config
+D:\Jidan ik1\semester 3\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.exe
+D:\Jidan ik1\semester 3\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.xml
+D:\Jidan ik1\semester 3\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.pdb
+D:\Jidan ik1\semester 3\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\bin\Debug\WinAppAsyncMicAccess.exe
+D:\Jidan ik1\semester 3\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\bin\Debug\WinAppAsyncMicAccess.pdb
+D:\Jidan ik1\semester 3\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\bin\Debug\WinAppAsyncMicAccess.xml
+D:\Jidan ik1\semester 3\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Jidan ik1\semester 3\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Jidan ik1\semester 3\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Jidan ik1\semester 3\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\bin\Debug\System.IO.dll
+D:\Jidan ik1\semester 3\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\bin\Debug\System.Runtime.dll
+D:\Jidan ik1\semester 3\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\bin\Debug\System.Threading.Tasks.dll
+D:\Jidan ik1\semester 3\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Jidan ik1\semester 3\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Jidan ik1\semester 3\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Jidan ik1\semester 3\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\bin\Debug\System.IO.xml
+D:\Jidan ik1\semester 3\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\bin\Debug\System.Runtime.xml
+D:\Jidan ik1\semester 3\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\bin\Debug\System.Threading.Tasks.xml
+D:\Jidan ik1\semester 3\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.vbproj.App.config
+D:\Jidan ik1\semester 3\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.vbprojResolveAssemblyReference.cache
+D:\Jidan ik1\semester 3\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.FBarangPembelian.resources
+D:\Jidan ik1\semester 3\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.FLogin.resources
+D:\Jidan ik1\semester 3\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.FMenu.resources
+D:\Jidan ik1\semester 3\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.FPembelian.resources
+D:\Jidan ik1\semester 3\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.FSupplier.resources
+D:\Jidan ik1\semester 3\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.FPengguna.resources
+D:\Jidan ik1\semester 3\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.Resources.resources
+D:\Jidan ik1\semester 3\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.vbproj.GenerateResource.Cache
+D:\Jidan ik1\semester 3\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.FBarang.resources
+D:\Jidan ik1\semester 3\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.FCRBarang.resources
+D:\Jidan ik1\semester 3\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.FCRPrint.resources
+D:\#Hendro\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\bin\Debug\WinAppAsyncMicAccess.exe.config
+D:\#Hendro\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.exe
+D:\#Hendro\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.xml
+D:\#Hendro\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.pdb
+D:\#Hendro\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\bin\Debug\WinAppAsyncMicAccess.exe
+D:\#Hendro\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\bin\Debug\WinAppAsyncMicAccess.pdb
+D:\#Hendro\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\bin\Debug\WinAppAsyncMicAccess.xml
+D:\#Hendro\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\#Hendro\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\#Hendro\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\#Hendro\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\bin\Debug\System.IO.dll
+D:\#Hendro\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\bin\Debug\System.Runtime.dll
+D:\#Hendro\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\bin\Debug\System.Threading.Tasks.dll
+D:\#Hendro\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\#Hendro\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\#Hendro\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\#Hendro\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\bin\Debug\System.IO.xml
+D:\#Hendro\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\bin\Debug\System.Runtime.xml
+D:\#Hendro\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\bin\Debug\System.Threading.Tasks.xml
+D:\#Hendro\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.vbproj.App.config
+D:\#Hendro\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.vbprojResolveAssemblyReference.cache
+D:\#Hendro\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.FBarang.resources
+D:\#Hendro\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.FBarangPembelian.resources
+D:\#Hendro\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.FCRBarang.resources
+D:\#Hendro\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.FCRPrint.resources
+D:\#Hendro\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.FLogin.resources
+D:\#Hendro\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.FMenu.resources
+D:\#Hendro\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.FPembelian.resources
+D:\#Hendro\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.FSupplier.resources
+D:\#Hendro\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.FPengguna.resources
+D:\#Hendro\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.Resources.resources
+D:\#Hendro\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.vbproj.GenerateResource.Cache
+D:\#Hendro\WinAppAsyncMicAccess-master\WinAppAsyncMicAccess\obj\x86\Debug\WinAppAsyncMicAccess.FCariPembelian.resources
